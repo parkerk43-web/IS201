@@ -65,6 +65,6 @@ nav a{
     border: 3px solid green;
     text-align: center;
     padding: 30px;
-    margin-left: 330px;
-    margin-right: 330px;
+    margin: 0 auto;
+    display: inline-block;
 }
